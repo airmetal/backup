@@ -1,3 +1,3 @@
 # Add "-skipdownloads" (w/o at the end) if you want to use local copy
 
-powershell -NoProfile -executionpolicy bypass .\backup2.ps1 -user andrew.das -pass AS12qwas!@ 
+powershell -NoProfile -executionpolicy bypass .\backup2.ps1 -user andrew.das -pass passw0rd
